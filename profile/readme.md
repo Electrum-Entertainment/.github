@@ -5,4 +5,4 @@ Hi, Lead Developer and owner, SpunBlue here. Electrum Entertainment is an indie 
 🤫🤫🤫 We don't want to leak our hard work 🤫🤫🤫
 
 ## Copyright
-If the name "Electrum Entertainment", is already taken and copyrighted by you, there is no need to make a legal threat. Contact me at any time and just let me know in a professional email, as well as proof of copyright. Apologies in advance if this is the case!
+If we end up accidentally screwing up by mistakenly using copyrighted material, there is no need to make a legal threat! I'm just a teenager making games on the internet, anyways. Just let me know and I'll fix it as soon as possible.
