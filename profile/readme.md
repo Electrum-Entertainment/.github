@@ -1,6 +1,9 @@
 # Electrum Entertainment
 Hi, Lead Developer and owner, SpunBlue here. Electrum Entertainment is an indie game studio run by two people as a hobby. We plan to make fun, and for now, free games for everyone to play! including your dog! ... Kidding!
 
+## Our Games
+While we haven't released any yet, you can find them all on [itch.io](https://spunblue.itch.io/)!
+
 ## Planned Projects
 🤫🤫🤫 We don't want to leak our hard work 🤫🤫🤫
 
